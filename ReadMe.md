@@ -1,4 +1,4 @@
-# Assignment 1: Correction Agent for ASR Errors in Voice-Enabled Assistants
+# Correction Agent for ASR Errors in Voice-Enabled Assistants
 
 # Introduction
 
